@@ -39,8 +39,7 @@ Desta forma, acredito que o desenvolvimento deste programa poderá ajudar na con
 <br/>
 <br/>
 <h1 align= "center">
- <img alt="Demonstração do Projero" title="Projeto" src="
- https://user-images.githubusercontent.com/90872784/167045164-02c8c64e-c669-4d73-a569-c2ba9cbedbf7.gif" />
+ <img alt="Demonstração do Projero" title="Projeto" src="https://user-images.githubusercontent.com/90872784/167045164-02c8c64e-c669-4d73-a569-c2ba9cbedbf7.gif"/>
  </h1>
 
  
