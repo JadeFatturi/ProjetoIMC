@@ -11,7 +11,7 @@
 
 
 # Apresentação 🙋‍♀️
-## Olá visitante!
+## Olá, visitante!
 <p> Este repositório trata-se da prática de um projeto, onde concluí para a capacitação em Programador de Sistemas, realizado pelo programa Qualfica+ ministrado pela SEDUC-SC. <br/>
 O Principal objetivo deste projeto é aplicar práticas na linguagem Java, principalmente no que se refere a estudos de lógica da programação e interfaces gráficas.
 </p>
